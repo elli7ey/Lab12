@@ -12,6 +12,8 @@ public class Main {
             out.write(buffer, 0, buffer.length);
 
             System.out.println(res);
+            System.out.println("Hi!");
+            int x;
 
             in.close();
             out.close();
